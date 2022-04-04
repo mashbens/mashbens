@@ -1,11 +1,9 @@
 ### Hi👋, I'm Arif!
 
 <br/>
-<br/>
 
 <strong>:books: Currently Learning</strong>
 
-<br/>
 <div align ="center">
 
   <table>
@@ -59,7 +57,6 @@
 
 </div>
 
-<br/>
 <br/>
 
 <strong> 🤝🏻 &nbsp;Connect with Me </strong>
