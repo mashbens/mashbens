@@ -1,6 +1,6 @@
 ### Hi👋, I'm Arif!
 
-<strong>:books: Currently (and Future) Learning</strong>
+<strong>:books: Currently Learning</strong>
 
   <table>
   <tr>
@@ -16,12 +16,7 @@
     <th>
       Database
     </th>
-    <th>
-      Hardware
-    </th>
-    <th>
-      Infrastructure
-    </th>
+
   </tr>
   <tr>
     <!-- PROGRAMMING LANGUAGE -->
