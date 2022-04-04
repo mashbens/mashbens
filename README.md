@@ -30,8 +30,7 @@
     <!-- BACKEND -->
     <td>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" width="auto" height="30"/><br/>
-      <img src="" alt="Echo" width="auto" height="30"/><br/>
-      <img src="" alt="Gin" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" width="auto" height="30"/><br/>
     </td>
     <!-- FRONTEND -->
     <td>
@@ -48,18 +47,19 @@
     <td>
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" width="auto" height="30"/><br/>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" width="auto" height="30"/><br/>
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="auto" height="30"/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="auto" height="30"/><br/>
     </td>
+
   </tr>
 </table>
 
 </div>
 
-<div align ="center"> 
+<!-- <div align ="center">
 <a href="https://www.linkedin.com/in/arif-budiman-a1s3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:arifbdmn69@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/mashbens" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+</div> -->
 <div align="center">
   <a href="https://github.com/mashbens">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mashbens&show_icons=true&theme=dark&include_all_commits=true&count_private=true "/>
