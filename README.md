@@ -25,9 +25,11 @@
   <tr>
     <!-- PROGRAMMING LANGUAGE -->
     <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" width="auto" height="30"/><br/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" width="auto" height="30"/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" width="auto" height="30"/><br/>
+      <div align = "center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" width="auto" height="30"/><br/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" width="auto" height="30"/><br/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" width="auto" height="30"/><br/>
+      </div>
     </td>
     <!-- BACKEND -->
     <td>
