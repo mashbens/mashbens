@@ -33,7 +33,7 @@
     <!-- BACKEND -->
     <td>
       <div align = "center">
-        <!-- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" width="auto" height="30"/><br/> -->
+        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" width="auto" height="30"/><br/>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="go" width="auto" height="30"/><br/>
       </div>
     </td>
